@@ -1,9 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: SoGrid 주식 노트
+description: 나의 주식 투자 기록
 remote_theme: just-the-docs/just-the-docs
 
 url: "https://so-grid.github.io"
 baseurl: ""
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub Repository: https://github.com/so-grid/so-grid.github.io
